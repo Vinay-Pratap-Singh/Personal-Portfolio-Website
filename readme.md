@@ -19,4 +19,6 @@
 ## **Output** ##
 ![Output Image](./personal%20portfolio%20output.png)
 
-## **Live View** #
+## **Live Project** #
+<a href="https://itsharvihere.netlify.app/" 
+class="button big"><img alt="Project Link" src="https://img.shields.io/badge/Portfolio%20Website-Visit-red"></a>
